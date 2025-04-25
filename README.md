@@ -1,4 +1,4 @@
-## Hi there 👋
+![GitHub followers](https://img.shields.io/github/followers/BallsyWalnuts?style=social)
 
 <!--
 **BallsyWalnuts/BallsyWalnuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=BallsyWalnuts)](https://github.com/LordDashMe/github-contribution-stats/)
